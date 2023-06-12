@@ -149,7 +149,7 @@ window.addEventListener("DOMContentLoaded", function () {
     function success() {
         form.reset();
         status.classList.add("success");
-        status.innerHTML = "Thanks for contact Me!";
+        status.innerHTML = "Thanks for Contact Us!";
     }
 
     function error() {
